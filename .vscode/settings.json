@@ -1,0 +1,4 @@
+{
+    "dart.devToolsLocation": "external",
+    "dart.openDevTools": "always"
+}
